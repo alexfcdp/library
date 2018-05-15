@@ -1,0 +1,21 @@
+Ruby Best Practices;Aleksey Zentcev;09.04.2018
+The RSpec Book;Alexander Sushko;10.04.2018
+Metaprogramming Ruby 2;Alisa Tilik;10.04.2018
+Effective Ruby: 48;Andrii Taran;10.04.2018
+Ruby Cookbook;Anton Voronin;15.04.2018
+RESTful Web APIs;Artem Ribka;16.04.2018
+RESTful Web Services;Danil Migrin;16.04.2018
+Head First Ruby;Dmitryi Vagan;25.04.2018
+Use a Cabeca!: Ruby;Elina Kuchugurniy;26.04.2018
+Use a Cabeca!: Rails;Aleksandr Semeoshin;28.04.2018
+Ruby Cookbook;Anton Voronin;28.04.2018
+Metaprogramming Ruby 2;Artem Ribka;29.04.2018
+Ruby Best Practices;Alisa Tilik;01.05.2018
+Ruby Cookbook;Aleksandr Semeoshin;03.05.2018
+Metaprogramming Ruby 2;Aleksandr Semeoshin;04.05.2018
+Ruby Cookbook;Aleksandr Semeoshin;04.05.2018
+Metaprogramming Ruby 2;Alisa Tilik;04.05.2018
+Metaprogramming Ruby 2;Alisa Tilik;04.05.2018
+Metaprogramming Ruby 2;Aleksey Zentcev;04.05.2018
+Metaprogramming Ruby 2;Aleksandr Semeoshin;05.05.2018
+Metaprogramming Ruby 2;Alisa Tilik;06.05.2018

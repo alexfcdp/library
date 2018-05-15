@@ -1,0 +1,11 @@
+Ruby Best Practices;Gregory Brown
+The RSpec Book;David Chelimsky
+Metaprogramming Ruby 2;Paolo Perrotta
+Effective Ruby: 48;Peter J. Jones
+Ruby Cookbook;Leonard Richardson
+RESTful Web APIs;Leonard Richardson
+RESTful Web Services;Leonard Richardson
+Head First Ruby;Jay McGavren
+Use a Cabeca!: Ruby;Jay McGavren
+Use a Cabeca!: Rails;Dawn Griffiths
+Head First C;Dawn Griffiths

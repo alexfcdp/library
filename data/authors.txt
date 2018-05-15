@@ -1,0 +1,7 @@
+Gregory Brown;Has run the independently published Practicing Ruby journal since 2010, and is the original author of the popular Prawn PDF generation library.
+David Chelimsky;Developer and lead cavaquinista at @cognitect.
+Paolo Perrotta;Has more than ten years of experience as a developer and writer
+Peter J. Jones;Peter J. Jones has been working professionally with Ruby since 2005
+Leonard Richardson;Author of robotfindskitten, Beautiful Soup, RESTful Web APIs, and Constellation Games
+Jay McGavren;Jay is a development teacher at Treehouse, and an occasional conference speaker
+Dawn Griffiths;Popular Series By Dawn Griffiths

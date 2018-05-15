@@ -1,0 +1,10 @@
+Aleksey Zentcev;aleksey@gmail.com;Dnipro;ul. Kim;1
+Alexander Sushko;alexandro@gmail.com;Dnipro;ul. Vakulenchuk;2
+Alisa Tilik;alisa@gmail.com;Dnipro;ul. Vakhrusheva;3
+Andrii Taran;andrii@gmail.com;Dnipro;ul. Vasily Sidorenko;4
+Anton Voronin;anton@gmail.com;Dnipro;ul. Brat'yev Kamenskikh;5
+Artem Ribka;artem@gmail.com;Dnipro;ul. Zernovaya;6
+Danil Migrin;danil@gmail.com;Dnipro;ul. Brat'yev Koval'chukov;7
+Dmitryi Vagan;dmitryi@gmail.com;Dnipro;ul. Baydakovskaya;8
+Elina Kuchugurniy;elina@gmail.com;Dnipro;ul. Kviringa;9
+Aleksandr Semeoshin;aleks_sem@gmail.com;Dnipro;ul. Kolkhoznaya;10
